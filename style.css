@@ -2,3 +2,7 @@
     margin: 0;
     padding: 0;
 }
+h2{
+    padding-left: 28px;
+    text-transform: uppercase;
+}
